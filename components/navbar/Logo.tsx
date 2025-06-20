@@ -10,7 +10,7 @@ function Logo() {
         href="/"
         className="bg-white p-1"
       >
-        <Image src="/CompanyLogo.png" alt="" width={200} height={100} />
+        <Image src="/OfficialLogo.png" alt="" width={200} height={100} />
       </Link>
     
   );
