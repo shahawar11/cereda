@@ -3,9 +3,9 @@ import React from "react";
 
 const ConferenceTheme = () => {
   return (
-    <div className="w-full bg-blue-50 p-8">
+    <div className="w-full bg-violet-100 rounded-2xl p-8">
       <div className="flex flex-col justify-center md:justify-start space-y-2 text-gray-800 dark:text-gray-300 max-w-7xl mx-auto">
-        <h1 className="font-bold text-2xl pb-4 xl:text-3xl text-blue-900 dark:text-white">
+        <h1 className="font-bold text-3xl pb-4 xl:text-4xl text-blue-900 dark:text-white">
           Conference Theme
         </h1>
         <div className="flex flex-col gap-y-8 md:gap-y-0 justify-center md:flex-row md:justify-between items-center">
