@@ -1,6 +1,5 @@
 import Banner from "@/components/banner/page";
 import ConferenceTheme from "@/components/conference-theme/conference-theme";
-import CTA from "@/components/cta/cta";
 import { KeyHighlightsGrid } from "@/components/key-highlights/key-highlights";
 import Objective from "@/components/objective/objective";
 import Proceedings from "@/components/proceedings/Proceedings";
